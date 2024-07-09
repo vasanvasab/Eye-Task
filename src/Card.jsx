@@ -8,7 +8,7 @@ const Card = () => {
       <div className="icon">
         <img src="https://img.icons8.com/ios-filled/50/000000/visible.png" alt="Eye Icon" />
       </div>
-      <h2>Name:KAVIVARSHINI </h2>
+      <h2>Name:S.KAVIVARSHINI </h2>
       <p>Registration No:212221040078</p>
       <button>Show Details</button>
     </div>
